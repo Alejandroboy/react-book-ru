@@ -1,3 +1,3 @@
-This project welcomes contributions and suggestions.
+Этот проект приветствует вклады и предложения.
 
-Any feature suggestion, bugs, tests. Please raise an issue at https://github.com/softchris/react-book/issues.
+Любые предложения по функциям, баги, тесты. Пожалуйста, создавайте ишью (issues) тут https://github.com/softchris/react-book/issues.
